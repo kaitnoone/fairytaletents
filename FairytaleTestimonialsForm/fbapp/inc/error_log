@@ -1,0 +1,513 @@
+[29-May-2014 04:50:09 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[29-May-2014 04:50:09 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[31-May-2014 15:38:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[31-May-2014 15:38:40 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[07-Jul-2014 03:31:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Jul-2014 03:31:41 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[07-Jul-2014 18:00:19 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Jul-2014 21:50:19 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Jul-2014 05:15:09 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Jul-2014 07:43:55 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Jul-2014 07:43:55 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[08-Jul-2014 10:10:28 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Jul-2014 16:39:57 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Jul-2014 20:38:30 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[09-Jul-2014 11:56:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[09-Jul-2014 11:56:41 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[09-Jul-2014 18:26:23 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[09-Jul-2014 18:26:23 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[09-Jul-2014 18:26:23 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[09-Jul-2014 22:40:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[10-Jul-2014 03:34:30 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[10-Jul-2014 03:49:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[12-Jul-2014 06:04:14 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[12-Jul-2014 06:04:14 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[12-Jul-2014 06:04:14 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[20-Jul-2014 17:55:36 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[20-Jul-2014 17:55:37 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[20-Jul-2014 17:55:38 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[20-Jul-2014 17:55:38 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[20-Jul-2014 17:55:39 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[20-Jul-2014 17:55:39 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[20-Jul-2014 17:55:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[20-Jul-2014 17:55:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[20-Jul-2014 17:55:41 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[20-Jul-2014 17:55:41 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[20-Jul-2014 17:55:42 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[20-Jul-2014 17:55:43 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[20-Jul-2014 17:55:43 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[09-Sep-2014 19:54:56 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[09-Sep-2014 19:54:57 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[10-Sep-2014 02:03:07 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[10-Sep-2014 09:21:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[10-Sep-2014 21:35:08 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[10-Sep-2014 21:35:08 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[11-Sep-2014 04:15:09 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Sep-2014 07:52:20 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Sep-2014 17:00:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[12-Sep-2014 05:39:39 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[12-Sep-2014 17:26:19 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[12-Sep-2014 18:25:24 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[12-Sep-2014 18:25:24 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[12-Sep-2014 23:50:18 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[13-Sep-2014 23:51:00 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[13-Sep-2014 23:51:00 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[14-Sep-2014 01:46:53 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[14-Sep-2014 02:36:23 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[14-Sep-2014 06:19:10 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[14-Sep-2014 08:25:54 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Oct-2014 12:01:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Oct-2014 12:01:23 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Oct-2014 12:01:23 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Oct-2014 12:01:23 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[18-Oct-2014 12:01:24 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Oct-2014 12:01:24 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[18-Oct-2014 12:01:24 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Oct-2014 12:01:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Oct-2014 12:01:25 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[18-Oct-2014 12:01:25 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[18-Oct-2014 12:01:26 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Oct-2014 12:01:26 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Oct-2014 12:01:27 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Oct-2014 06:17:01 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Oct-2014 06:17:02 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Oct-2014 06:17:03 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Oct-2014 06:17:03 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[22-Oct-2014 06:17:03 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Oct-2014 06:17:03 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[22-Oct-2014 06:17:04 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Oct-2014 06:17:04 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Oct-2014 06:17:04 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[22-Oct-2014 06:17:04 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[22-Oct-2014 06:17:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Oct-2014 06:17:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Oct-2014 06:17:06 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[14-Nov-2014 18:51:50 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[14-Nov-2014 21:48:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[14-Nov-2014 23:51:35 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[14-Nov-2014 23:51:35 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[15-Nov-2014 10:09:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[15-Nov-2014 15:50:30 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[15-Nov-2014 15:50:30 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[15-Nov-2014 15:50:30 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[16-Nov-2014 08:38:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[16-Nov-2014 09:11:00 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[16-Nov-2014 11:21:54 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[16-Nov-2014 11:21:54 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[16-Nov-2014 18:50:57 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[16-Nov-2014 18:50:57 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[16-Nov-2014 20:49:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[16-Nov-2014 21:20:53 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[16-Nov-2014 21:20:53 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[16-Nov-2014 21:20:53 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[17-Nov-2014 00:32:01 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[17-Nov-2014 01:59:08 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[17-Nov-2014 05:01:31 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[17-Nov-2014 23:02:38 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Nov-2014 05:40:06 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Nov-2014 23:38:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[17-Jan-2015 08:06:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[17-Jan-2015 08:06:49 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[17-Jan-2015 08:06:49 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[17-Jan-2015 11:48:15 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[17-Jan-2015 11:59:44 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[17-Jan-2015 12:29:47 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[17-Jan-2015 12:29:48 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[18-Jan-2015 14:45:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Jan-2015 14:45:13 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[18-Jan-2015 16:41:09 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[18-Jan-2015 16:41:09 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[19-Jan-2015 19:57:57 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[19-Jan-2015 19:57:57 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[21-Jan-2015 10:44:26 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[21-Jan-2015 10:44:26 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[08-Mar-2015 11:47:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Mar-2015 11:47:06 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Mar-2015 11:47:06 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Mar-2015 11:47:07 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[08-Mar-2015 11:47:07 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Mar-2015 11:47:07 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[08-Mar-2015 11:47:08 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Mar-2015 11:47:08 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Mar-2015 11:47:08 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[08-Mar-2015 11:47:08 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[08-Mar-2015 11:47:09 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Mar-2015 11:47:09 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[08-Mar-2015 11:47:10 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Mar-2015 15:53:56 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Mar-2015 15:53:57 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Mar-2015 15:53:57 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Mar-2015 15:53:57 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[11-Mar-2015 15:53:58 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Mar-2015 15:53:58 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[11-Mar-2015 15:53:58 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Mar-2015 15:53:59 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Mar-2015 15:53:59 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[11-Mar-2015 15:53:59 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[11-Mar-2015 15:53:59 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Mar-2015 15:54:00 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[11-Mar-2015 15:54:01 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[19-Mar-2015 20:20:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[20-Mar-2015 05:25:21 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[21-Mar-2015 08:06:14 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[21-Mar-2015 08:21:14 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[21-Mar-2015 09:43:26 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[21-Mar-2015 15:15:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Mar-2015 09:17:47 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-Mar-2015 09:17:47 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[24-Mar-2015 00:22:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[24-Mar-2015 00:22:13 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[24-Mar-2015 00:22:13 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[24-Mar-2015 09:46:02 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[24-Mar-2015 09:46:03 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[25-Mar-2015 06:25:46 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[25-Mar-2015 06:25:46 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[21-May-2015 16:55:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[21-May-2015 18:53:34 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-May-2015 05:35:48 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[22-May-2015 23:41:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[23-May-2015 13:18:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[24-May-2015 05:56:46 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[24-May-2015 05:56:47 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[26-May-2015 02:51:52 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-May-2015 05:24:11 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-May-2015 05:24:11 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[26-May-2015 06:21:15 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-May-2015 06:21:15 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[26-May-2015 06:21:15 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[27-May-2015 07:27:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-May-2015 07:27:40 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[26-Jul-2015 00:36:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Jul-2015 18:45:42 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Jul-2015 18:45:42 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[27-Jul-2015 19:30:42 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Jul-2015 12:42:06 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Jul-2015 12:42:06 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[28-Jul-2015 12:42:06 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[28-Jul-2015 14:40:26 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Jul-2015 14:40:26 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[28-Jul-2015 20:46:39 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Jul-2015 23:23:18 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Jul-2015 23:23:18 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[29-Jul-2015 02:30:48 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[29-Jul-2015 07:12:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[29-Jul-2015 07:12:49 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Jul-2015 07:12:49 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Jul-2015 07:57:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[29-Jul-2015 13:17:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[12-Sep-2015 15:38:37 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[12-Sep-2015 16:13:45 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[12-Sep-2015 18:39:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[13-Sep-2015 00:51:20 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[13-Sep-2015 00:51:20 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[13-Sep-2015 10:14:32 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[13-Sep-2015 12:05:07 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[13-Sep-2015 13:32:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[13-Sep-2015 13:32:49 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[13-Sep-2015 13:32:49 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[13-Sep-2015 14:07:23 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[25-Sep-2015 09:41:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Sep-2015 07:12:37 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Sep-2015 07:57:17 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Sep-2015 02:28:38 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Sep-2015 17:05:30 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Sep-2015 17:05:30 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[28-Sep-2015 01:48:14 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Sep-2015 01:48:14 UTC] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[29-Sep-2015 14:02:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[29-Sep-2015 14:02:40 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[29-Sep-2015 17:00:32 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[29-Sep-2015 17:00:32 UTC] PHP Warning:  require_once(fbapp/inc/JSON.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Sep-2015 17:00:32 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Sep-2015 22:21:52 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[29-Sep-2015 22:21:52 UTC] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[01-Oct-2015 00:36:35 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[01-Oct-2015 14:25:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[20-Oct-2015 20:31:44 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2015 21:42:01 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2015 02:10:48 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2015 11:25:42 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2015 13:48:49 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2015 13:48:49 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[21-Oct-2015 13:48:49 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[21-Oct-2015 14:05:48 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2015 04:03:34 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[11-Nov-2015 10:26:02 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[11-Nov-2015 10:26:02 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[15-Nov-2015 11:21:56 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Nov-2015 11:21:56 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[15-Nov-2015 11:21:56 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[17-Nov-2015 09:11:57 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Nov-2015 09:11:57 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[17-Nov-2015 09:11:57 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[20-Nov-2015 23:15:03 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Nov-2015 23:15:03 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[20-Nov-2015 23:15:03 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[25-Nov-2015 10:25:13 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Nov-2015 14:44:14 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Nov-2015 04:57:32 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Nov-2015 07:08:31 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Nov-2015 12:33:31 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Nov-2015 19:04:26 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Nov-2015 07:22:12 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Nov-2015 07:22:12 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[29-Nov-2015 17:10:46 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Nov-2015 17:10:46 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[30-Nov-2015 01:58:57 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Nov-2015 07:15:14 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Nov-2015 10:52:24 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Nov-2015 10:52:24 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[02-Dec-2015 19:35:17 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Dec-2015 19:35:17 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[02-Dec-2015 19:35:17 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[03-Dec-2015 00:52:31 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Dec-2015 00:52:31 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[03-Dec-2015 00:52:31 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[03-Dec-2015 06:28:05 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Dec-2015 19:38:21 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Dec-2015 19:38:21 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[23-Dec-2015 00:05:08 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Dec-2015 07:55:11 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Dec-2015 02:28:06 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Jan-2016 00:34:32 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Jan-2016 11:56:41 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Jan-2016 12:07:52 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Jan-2016 14:39:53 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Jan-2016 14:39:53 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[27-Jan-2016 19:15:02 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Jan-2016 19:15:02 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[27-Jan-2016 22:13:05 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Jan-2016 02:12:22 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[31-Jan-2016 06:44:35 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Feb-2016 04:41:37 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Feb-2016 13:10:50 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Feb-2016 13:44:20 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Feb-2016 13:44:20 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[01-Feb-2016 13:44:20 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[02-Feb-2016 01:10:49 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2016 01:10:49 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[03-Feb-2016 10:12:19 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Feb-2016 10:12:19 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[03-Feb-2016 10:12:19 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[04-Feb-2016 07:00:12 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 11:32:12 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 11:33:33 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 11:33:50 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 11:33:50 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[18-Feb-2016 11:35:54 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 11:35:54 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[18-Feb-2016 11:36:04 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 11:36:19 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 11:36:19 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[18-Feb-2016 11:36:19 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[18-Feb-2016 11:37:40 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 11:39:22 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 11:39:59 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2016 04:38:37 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Mar-2016 01:52:06 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Mar-2016 02:08:28 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Mar-2016 19:51:46 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Mar-2016 16:46:34 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Mar-2016 14:54:01 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Apr-2016 02:38:28 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Apr-2016 12:45:06 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Apr-2016 12:45:06 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[03-Apr-2016 12:45:06 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[06-Apr-2016 09:17:29 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Apr-2016 18:53:18 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Apr-2016 18:53:18 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[07-Apr-2016 03:11:16 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Apr-2016 06:18:53 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Apr-2016 06:18:53 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[09-Apr-2016 03:54:40 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2016 07:07:27 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2016 07:57:14 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2016 07:57:14 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[10-Apr-2016 07:57:14 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[11-Apr-2016 01:45:09 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[11-Apr-2016 10:52:28 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Apr-2016 04:45:18 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Apr-2016 04:45:18 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[13-Apr-2016 16:41:26 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2016 16:41:26 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[14-Apr-2016 13:03:34 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Apr-2016 16:43:57 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Apr-2016 16:43:57 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[28-Apr-2016 16:41:24 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Apr-2016 16:41:25 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Apr-2016 16:41:25 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Apr-2016 16:41:25 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[28-Apr-2016 16:41:26 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Apr-2016 16:41:26 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[28-Apr-2016 16:41:26 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Apr-2016 16:41:27 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Apr-2016 16:41:27 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[28-Apr-2016 16:41:27 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[28-Apr-2016 16:41:27 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Apr-2016 16:41:27 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Apr-2016 16:41:28 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-May-2016 06:00:00 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-May-2016 06:00:00 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-May-2016 06:00:01 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-May-2016 06:00:01 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[01-May-2016 06:00:01 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-May-2016 06:00:01 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[01-May-2016 06:00:02 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-May-2016 06:00:02 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-May-2016 06:00:02 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[01-May-2016 06:00:02 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[01-May-2016 06:00:03 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-May-2016 06:00:03 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-May-2016 06:00:04 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Jun-2016 01:16:02 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Jun-2016 00:14:38 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jun-2016 15:16:06 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jun-2016 15:16:06 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[09-Jun-2016 15:16:06 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[09-Jun-2016 15:25:48 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jun-2016 16:19:55 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jun-2016 16:53:06 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jun-2016 17:04:43 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jun-2016 17:04:43 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[09-Jun-2016 20:08:07 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jun-2016 20:08:07 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[10-Jun-2016 02:22:29 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Jun-2016 04:21:12 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Jun-2016 15:03:48 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Jun-2016 11:02:03 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jun-2016 12:57:00 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Jul-2016 03:01:23 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jul-2016 12:24:02 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Jul-2016 12:53:05 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Jul-2016 10:37:45 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Jul-2016 10:37:45 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[11-Aug-2016 23:12:58 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[11-Aug-2016 23:12:58 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[11-Aug-2016 23:12:58 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[16-Aug-2016 01:03:23 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Aug-2016 12:06:15 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Aug-2016 15:00:13 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Aug-2016 15:00:13 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[18-Aug-2016 15:00:13 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[19-Aug-2016 02:12:12 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2016 23:44:37 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2016 23:44:37 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[24-Aug-2016 13:55:06 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2016 13:55:07 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[25-Aug-2016 00:02:00 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Sep-2016 18:12:23 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Sep-2016 06:24:01 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Sep-2016 07:37:41 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2016 14:05:41 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Oct-2016 07:10:08 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Oct-2016 07:43:37 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Oct-2016 07:43:37 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[18-Oct-2016 15:23:48 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2016 07:01:57 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2016 07:01:57 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[20-Oct-2016 07:01:57 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[20-Oct-2016 21:30:50 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2016 21:30:50 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[20-Oct-2016 21:30:50 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[27-Oct-2016 07:03:30 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Nov-2016 11:31:56 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Nov-2016 18:29:00 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Nov-2016 13:30:47 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Nov-2016 20:03:27 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Nov-2016 07:54:11 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Nov-2016 23:43:49 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Nov-2016 20:10:26 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Dec-2016 16:04:28 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Dec-2016 18:39:47 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Dec-2016 19:46:46 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Dec-2016 19:46:46 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[26-Dec-2016 03:01:57 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Dec-2016 04:48:39 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Dec-2016 22:56:50 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Dec-2016 10:10:49 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Dec-2016 10:10:49 America/Los_Angeles] PHP Fatal error:  Call to undefined function _T() in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[29-Dec-2016 14:51:08 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Dec-2016 14:51:08 America/Los_Angeles] PHP Fatal error:  Class 'ProductProps' not found in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[05-Jan-2017 00:47:20 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jan-2017 06:46:55 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jan-2017 06:46:55 America/Los_Angeles] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[09-Jan-2017 06:46:55 America/Los_Angeles] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fairytal/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[13-Mar-2017 04:32:06 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Mar-2017 23:42:02 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Mar-2017 15:39:53 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[04-Apr-2017 13:30:23 America/Los_Angeles] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickWand.so.2: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Jun-2017 11:18:26 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[05-Jun-2017 13:54:28 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[05-Jun-2017 13:54:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[12-Jul-2017 08:42:48 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[12-Jul-2017 08:42:48 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[12-Jul-2017 08:44:39 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[12-Jul-2017 08:45:08 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[04-Oct-2017 05:51:53 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[04-Oct-2017 05:51:53 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[04-Oct-2017 05:51:54 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[04-Oct-2017 05:51:54 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[04-Oct-2017 13:42:03 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[04-Oct-2017 13:42:03 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[04-Oct-2017 13:42:04 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[04-Oct-2017 13:42:04 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[04-Oct-2017 19:50:17 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[04-Oct-2017 19:50:17 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[04-Oct-2017 19:50:18 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[04-Oct-2017 19:50:18 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[05-Oct-2017 21:17:01 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[05-Oct-2017 21:17:01 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[05-Oct-2017 21:17:02 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[05-Oct-2017 21:17:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[02-Nov-2017 19:21:43 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[02-Nov-2017 19:21:43 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[08-Nov-2017 18:04:47 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[08-Nov-2017 18:04:47 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[03-Mar-2018 17:26:20 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[03-Mar-2018 17:26:50 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[03-Mar-2018 17:27:51 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[03-Mar-2018 17:27:51 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[04-Mar-2018 11:44:21 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[04-Mar-2018 11:45:04 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[04-Mar-2018 11:46:08 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[04-Mar-2018 11:46:08 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[06-Mar-2018 22:05:33 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[06-Mar-2018 22:06:47 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[06-Mar-2018 22:10:59 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[06-Mar-2018 22:10:59 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[26-Mar-2018 15:08:24 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[26-Mar-2018 15:09:25 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[26-Mar-2018 15:11:26 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[26-Mar-2018 15:11:26 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[26-Mar-2018 15:11:56 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[26-Mar-2018 15:12:57 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[26-Mar-2018 15:14:57 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[26-Mar-2018 15:14:57 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Mar-2018 15:52:19 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[29-Mar-2018 15:53:20 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[29-Mar-2018 15:55:22 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Mar-2018 15:55:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Mar-2018 15:55:53 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[29-Mar-2018 15:56:55 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[29-Mar-2018 15:59:22 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Mar-2018 15:59:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Mar-2018 23:27:00 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[29-Mar-2018 23:30:07 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[29-Mar-2018 23:32:15 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Mar-2018 23:32:15 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Mar-2018 23:40:43 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[29-Mar-2018 23:41:56 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[29-Mar-2018 23:50:25 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[29-Mar-2018 23:50:25 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[30-Mar-2018 02:58:36 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[30-Mar-2018 02:59:37 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[30-Mar-2018 17:33:51 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[30-Mar-2018 17:34:52 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[30-Mar-2018 17:36:53 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[30-Mar-2018 17:36:53 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[30-Mar-2018 17:37:23 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[30-Mar-2018 17:38:24 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
+[30-Mar-2018 17:40:25 America/Chicago] PHP Warning:  require_once(fbapp/inc/JSON.php): failed to open stream: No such file or directory in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[30-Mar-2018 17:40:25 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'fbapp/inc/JSON.php' (include_path='.:/opt/php56/lib/php') in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/php4compat.inc.php on line 17
+[30-Mar-2018 17:45:04 America/Chicago] PHP Fatal error:  Call to undefined function _T() in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/displayerrors.inc.php on line 14
+[30-Mar-2018 17:46:04 America/Chicago] PHP Fatal error:  Class 'ProductProps' not found in /home3/fairytale/public_html/Fairytale Testimonials/fbapp/inc/fieldpricer.inc.php on line 327
